@@ -3,7 +3,7 @@ Backbase QA Project
 
 You will find 3 files listed besides the README file.
 
-BBLogTestCases includes all of the automation and manual testing instructions,
+BBLogTestCases.PDF includes all of the automation and manual testing instructions,
 inlcuding how to set up Google Chrome with Selenium.
 
 BBLog.Side is the automation suite file you will open in Selenium once you have

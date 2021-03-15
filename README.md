@@ -1,7 +1,7 @@
 # backbase
 Backbase QA Project 
 
-You will find 3 files listed besides the README file.
+You will find 3 files listed inside the BackbaseBBLog folder.
 
 BBLogTestCases.PDF includes all of the automation and manual testing instructions,
 inlcuding how to set up Google Chrome with Selenium.
